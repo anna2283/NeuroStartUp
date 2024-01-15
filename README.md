@@ -1,4 +1,4 @@
-# Hello,wold!
+# Hello,world!
 
 15.01.24
 
